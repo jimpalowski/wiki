@@ -1,0 +1,30 @@
+
+#sitetitle{
+  color: blue;
+  position: absolute;
+}
+
+div#toprow{
+  margin-left: 0;
+}
+
+div.lightgreen{
+  background:lightgreen ;
+}
+div.lightblue{
+  background: lightblue;
+}
+
+
+#intro{
+  background: transparent;
+}
+
+#control{
+  background: green;
+  margin-top: 0px;
+}
+#control1{
+  background: green;
+  margin-bottom:0px;
+}
